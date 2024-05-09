@@ -1,5 +1,5 @@
 - 👋 Hi, I'm shariya lareb
-- 👀 I’m interested in  coding programming languages
+- 👀 My interest lies in coding. I am proficient in Java.
 - 🌱 I’m currently learning data structures
 - 📫 How to reach me -via my email  (larebshariya@gmail.com)
 
