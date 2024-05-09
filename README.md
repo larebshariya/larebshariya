@@ -1,6 +1,6 @@
 - 👋 Hi, I'm shariya lareb
 - 👀 My interest lies in coding. I am proficient in Java.
-- 🌱 I’m currently learning data structures
+- 🌱 I’m currently learning data structures using Java.
 - 📫 How to reach me -via my email  (larebshariya@gmail.com)
 
 <!---
